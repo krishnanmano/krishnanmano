@@ -1,16 +1,48 @@
-## Hi there 👋
+Hi 👋 I'm Manoj Krishnan
 
-<!--
-**krishnanmano/krishnanmano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Architect | Platform Engineer | Go Developer
 
-Here are some ideas to get you started:
+I build scalable cloud-native platforms with a focus on Kubernetes, distributed systems, observability, and AI infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Building
+Kubernetes Platform Engineering
+AI/ML Platform (MLOps)
+Observability Platform
+Distributed Workflow Systems
+Event-Driven Architectures
+🛠 Tech Stack
+
+Languages
+
+Go • Java • TypeScript
+
+Cloud & Platform
+
+Kubernetes • Docker • Helm • ArgoCD
+
+Observability
+
+Prometheus • OpenTelemetry • VictoriaMetrics • Grafana
+
+Messaging
+
+Kafka • RabbitMQ • MQTT • gRPC
+
+Databases
+
+PostgreSQL • MySQL • Redis
+
+🌱 Currently Learning
+
+Rust
+Kubeflow
+LLM Infrastructure
+Kubernetes Operators
+
+📈 GitHub Stats
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnanmano&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanmano&layout=compact&theme=github_dark)
