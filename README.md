@@ -49,12 +49,6 @@ I build scalable cloud-native platforms with a focus on Kubernetes, distributed 
 - LLM Infrastructure
 - Kubernetes Operators
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnanmano&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanmao&layout=compact&theme=github_dark&hide_border=true)
-
 ---
 
 > *Building reliable platforms that scale.*
